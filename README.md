@@ -1,7 +1,6 @@
 # Real-Time Chat Application (IT Developer Internship Project)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7372675243288449026?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+[<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7372675243288449026?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>](https://www.linkedin.com/posts/inakash_itdeveloper-internship-webdevelopment-activity-7372675401019564032-BWlt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmVAgwBbyt2mzUQ5aRQ4X8-EYgj1ogieb8)
 
 ## 📌 Project Overview
 This is a *Real-Time Chat Application* developed as part of my *Web Development Internship at IT Developer*.  
