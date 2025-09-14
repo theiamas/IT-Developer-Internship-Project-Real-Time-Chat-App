@@ -1,5 +1,8 @@
 # Real-Time Chat Application (IT Developer Internship Project)
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7372675243288449026?collapsed=1" height="542" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 
 ## 📌 Project Overview
 This is a *Real-Time Chat Application* developed as part of my *Web Development Internship at IT Developer*.  
